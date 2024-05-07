@@ -1,0 +1,19 @@
+{
+  "name": "ipview",
+  "version": "1.0.0",
+  "description": "Basic IP Viewer with api",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flynn-28/ip-view.git"
+  },
+  "author": "Aiden Flynn",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/flynn-28/ip-view/issues"
+  },
+  "homepage": "https://github.com/flynn-28/ip-view#readme"
+}
