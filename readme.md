@@ -11,7 +11,7 @@ This is a basic implementation of an ip viewer that acts as an api.
 2. Enter the directory: <br>
     ```cd ipview```
 3. Install packages with: <br>
-    ```npm install```
+    ```npm install express```
 4. Start the server with:
     ```npm start```
 
