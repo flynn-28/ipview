@@ -7,7 +7,7 @@ This is a basic implementation of an ip viewer that acts as an api.
 <br>
 
 1. Fo run your own version first clone the repo: <br>
-    ```git clone https://github.com/flynn-28/ip-view.git``` <br>
+    ```git clone https://github.com/flynn-28/ipview.git``` <br>
 2. Install packages with: <br>
     ```npm install```
 3. Start the server with:
